@@ -23,7 +23,7 @@ namespace ClassMetotDemo
             foreach (Customer customer in customers)
             {
                 Console.WriteLine("Adı : " + customer.Adi + "\nSoyadı : " + customer.Soyadi + "\nTC No : " + customer.TcNo);
-                Console.WriteLine("-----------------");
+                Console.WriteLine("-------------------");
 
             }
 
